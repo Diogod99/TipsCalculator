@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tips Calculator</string>
+    <string name="main_subtittle">Please fill the fields bellow to calculate the tip</string>
+    <string name="fill_totalbill">Fill in the total bill</string>
+    <string name="fill_number_of_people">Fill in the number of people</string>
+    <string name="fill_tip_percentage">Fill in the tip percentage</string>
+    <string name="calculate">Calculate</string>
+    <string name="clean">Clean</string>
+    <string name="summary">Summary</string>
+    <string name="summary_subtittle">Please see the details below</string>
+    <string name="summary_bill_amount">Bill amount:</string>
+    <string name="summary_number_of_people">Number of people:</string>
+    <string name="summary_tip_percentage">Tip percentage:</string>
+    <string name="summary_final_amount">Total amount to be paid:</string>
+    <string name="new_calculation">New calculation</string>
+</resources>

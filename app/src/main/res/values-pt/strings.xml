@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora de gorjeta</string>
+    <string name="main_subtittle">Preencha os valores abaixo para calcular a gorjeta</string>
+    <string name="fill_totalbill">Preencha o total da conta</string>
+    <string name="fill_number_of_people">Prencha o total de pessoas</string>
+    <string name="fill_tip_percentage">Preencha a percentagem de gorjeta</string>
+    <string name="calculate">Calcular</string>
+    <string name="clean">Limpar</string>
+    <string name="summary">Resumo</string>
+    <string name="summary_subtittle">Por favor verificar os detalhes abaixo</string>
+    <string name="summary_bill_amount">Valor da conta:</string>
+    <string name="summary_number_of_people">Quantidade de pessoas:</string>
+    <string name="summary_tip_percentage">Percentagem de gorjeta:</string>
+    <string name="summary_final_amount">Total a ser pago:</string>
+    <string name="new_calculation">Novo calculo</string>
+</resources>
